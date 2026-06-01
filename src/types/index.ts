@@ -6,6 +6,21 @@ export interface HourlyMetric {
   congestion: number;
 }
 
+export interface WeekTrendData {
+  day: string;
+  avgWait: number;
+  trucks: number;
+  deadTimeHours: number;
+  score: number;
+}
+
+export interface DeadTimeCategory {
+  name: string;
+  minutes: number;
+  pct: number;
+  color: string;
+}
+
 export interface ContractorStats {
   id: string;
   name: string;
