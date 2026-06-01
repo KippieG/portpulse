@@ -8,7 +8,7 @@
 
 **Maak verborgen inefficiëntie realtime zichtbaar — en weet exact hoeveel het kost.**
 
-[![Live Demo](https://img.shields.io/badge/▶%20Open%20Live%20Demo-portpulse.vercel.app-06b6d4?style=for-the-badge&logoColor=white)](https://portpulse.vercel.app)
+[![Live Demo](https://img.shields.io/badge/▶%20Open%20Live%20Demo-portpulse--blue.vercel.app-06b6d4?style=for-the-badge&logoColor=white)](https://portpulse-blue.vercel.app)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Broncode-GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KippieG/portpulse)
 

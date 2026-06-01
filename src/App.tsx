@@ -24,12 +24,12 @@ function Footer() {
         <span>Dead Time Analytics voor haventerminals</span>
         <span>·</span>
         <a
-          href="https://github.com/KippieG/portpulse"
+          href="https://portpulse-blue.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-cyan-400 transition-colors"
         >
-          github.com/KippieG/portpulse
+          portpulse-blue.vercel.app
         </a>
       </div>
       <p className="text-[11px] text-slate-700">
